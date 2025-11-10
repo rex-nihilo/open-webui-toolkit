@@ -72,11 +72,11 @@ class Config:
     LOG_BACKUP_COUNT = 5  # Number of backup log files to keep (int)
     LOG_ERROR_WARNING = True  # Show warnings in console if file logging fails (bool)
     LOG_LEVEL = "INFO"  # Log level for file (DEBUG, INFO, WARNING, ERROR) (str)
-    LOG_SIZE = 1  # Limit log size (in MB) (int)
+    LOG_SIZE = 10  # Limit log size (in MB) (int)
 
     # Message options
     MESSAGE_CLEAN_CHAT_HISTORY = True # Clean the message history of the plugin content displayed in the chat (recommended: True) (bool)
-    MESSAGE_REMOVE_OLD_REPORT = False # Remove old reports from the chat to keep only the latest one (bool)
+    MESSAGE_REMOVE_OLD_REPORT = True # Remove old reports from the chat to keep only the latest one (bool)
 
     # Result options in the chat
     RESULT_HEADER = True # Show info (title, model, etc) in chat result (bool)
