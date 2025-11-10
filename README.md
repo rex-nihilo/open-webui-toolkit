@@ -1,6 +1,6 @@
 # Open WebUI Toolkit
 
-[![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) [![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Compatible-blue.svg?style=flat-square&logo=github)](https://github.com/open-webui/open-webui) [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) [![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Compatible-blue.svg?style=flat-square&logo=github)](https://github.com/open-webui/open-webui)  [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
 
 A comprehensive collection of tools, functions, and utilities designed to enhance and extend [Open WebUI](https://github.com/open-webui/open-webui). This toolkit provides developers with ready-to-use components, pipelines, and documentation to build powerful AI-powered web interfaces.
 
@@ -8,11 +8,11 @@ A comprehensive collection of tools, functions, and utilities designed to enhanc
 
 Each project component contains all necessary information within its own directory for easy navigation and maintenance.
 
-### 📚 **Docs & Tutorials**
+### **Docs & Tutorials**
 
 Comprehensive documentation and step-by-step guides.
 
-### ⚙️ **Functions**
+### **Functions**
 
 Ready-to-use utility functions for common operations. Each function has its own directory with documentation.
 
@@ -28,13 +28,13 @@ Ready-to-use utility functions for common operations. Each function has its own 
 
 - soon
 
-### 🛠️ **Tools**
+### **Tools**
 
 Tools extend the capabilities of Open WebUI with concrete interactions. Each tool has its own directory with documentation.
 
 - soon
 
-### 📊 **Pipelines**
+### **Pipelines**
 
 Pre-built processing pipelines for common workflows. Each pipeline has its own directory with documentation.
 
