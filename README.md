@@ -21,47 +21,9 @@ Comprehensive documentation and step-by-step guides.
 
 Ready-to-use utility functions for common operations. Each function has its own directory with documentation.
 
-#### **Pipe Functions:**
-
-- soon
-
 #### **Filter Functions:**
 
 - [**Debug Filter Data**](https://github.com/rex-nihilo/open-webui-toolkit/tree/main/functions/debug-filter-data): A configurable Function Filter for Open WebUI to debug and log inlet/outlet/stream data. Logs to chat, console, or file with options for data selection, obfuscation, and rotation. Ideal for plugin development and understanding Open WebUI internals.
-
-#### **Action Functions:**
-
-- soon
-
-### **Tools**
-
-Tools extend the capabilities of Open WebUI with concrete interactions. Each tool has its own directory with documentation.
-
-- soon
-
-### **Pipelines**
-
-Pre-built processing pipelines for common workflows. Each pipeline has its own directory with documentation.
-
-- soon
-
-### **Models**
-
-Models optimized for specific tasks or roles.
-
-- soon
-
-### **Prompts**
-
-Collection of useful prompts.
-
-- soon
-
-### **Templates**
-
-Enhanced templates.
-
-- soon
 
 ---
 
@@ -73,6 +35,7 @@ Enhanced templates.
 ## 📄 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) Code snippets are licensed under MIT License.
+
 [![License: License CC-BY-SA](https://img.shields.io/badge/License-CC--BY--SA--4.0%20-blue.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/) Textual content is licensed under CC BY-SA 4.0.
 
 ## 👤 Author
