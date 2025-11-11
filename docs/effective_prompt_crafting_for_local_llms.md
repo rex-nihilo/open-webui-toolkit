@@ -674,19 +674,14 @@ This textual content is licensed under CC BY-SA 4.0.
 **Rex Nihilo**
 
 - GitHub: [@rex-nihilo](https://github.com/rex-nihilo)
-
 - Project: [Open WebUI Toolkit](https://github.com/rex-nihilo/open-webui-toolkit)
-
 - OpenWebUI: [@rexnihilo](https://openwebui.com/u/rexnihilo)
-
 - Website: [https://rexnihilo.com](https://rexnihilo.com)
 
 ## 💖 Support
 
-  If you find this work helpful:
-
+If you find this work helpful:
 - ⭐ Star the repository
-
 - 📢 Share with other developers
 
 ---
