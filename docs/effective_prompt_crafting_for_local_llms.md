@@ -686,4 +686,4 @@ If you find this work helpful:
 
 ---
 
-**Licence:** [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) | **Last updated:** November 2025 by **Rex Nihilo*
+**Licence:** [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) | **Last updated:** November 2025 by **Rex Nihilo**
