@@ -1,8 +1,10 @@
 # Open WebUI Toolkit
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) [![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Compatible-blue.svg?style=flat-square&logo=github)](https://github.com/open-webui/open-webui)  [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
+[![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Compatible-blue.svg?style=flat-square&logo=github)](https://github.com/open-webui/open-webui)  [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
 
 A comprehensive collection of tools, functions, and utilities designed to enhance and extend [Open WebUI](https://github.com/open-webui/open-webui). This toolkit provides developers with ready-to-use components, pipelines, and documentation to build powerful AI-powered web interfaces.
+
+---
 
 ## ✨ Features of the Toolkit
 
@@ -11,6 +13,9 @@ Each project component contains all necessary information within its own directo
 ### **Docs & Tutorials**
 
 Comprehensive documentation and step-by-step guides.
+
+- [**Introduction du Open WebUI**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/introduction_to_open_webui.md)
+- [**Effective Prompt Crafting for Local LLMs**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/effective_prompt_crafting_for_local_llms.md)
 
 ### **Functions**
 
@@ -40,6 +45,26 @@ Pre-built processing pipelines for common workflows. Each pipeline has its own d
 
 - soon
 
+### **Models**
+
+Models optimized for specific tasks or roles.
+
+- soon
+
+### **Prompts**
+
+Collection of useful prompts.
+
+- soon
+
+### **Templates**
+
+Enhanced templates.
+
+- soon
+
+---
+
 ## 📝 Requirements
 
 - **Open WebUI**: v0.6.10+ recommended
@@ -47,7 +72,8 @@ Pre-built processing pipelines for common workflows. Each pipeline has its own d
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://mit-license.org/) file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) Code snippets are licensed under MIT License.
+[![License: License CC-BY-SA](https://img.shields.io/badge/License-CC--BY--SA--4.0%20-blue.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/) Textual content is licensed under CC BY-SA 4.0.
 
 ## 👤 Author
 
@@ -55,6 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://mit-l
 
 - GitHub: [@rex-nihilo](https://github.com/rex-nihilo)
 - Project: [Open WebUI Toolkit](https://github.com/rex-nihilo/open-webui-toolkit)
+- OpenWebUI: [@rexnihilo](https://openwebui.com/u/rexnihilo)
 - Website: [https://rexnihilo.com](https://rexnihilo.com)
 
 ## 💖 Support
