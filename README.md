@@ -10,14 +10,14 @@ A comprehensive collection of tools, functions, and utilities designed to enhanc
 
 Each project component contains all necessary information within its own directory for easy navigation and maintenance.
 
-### **Docs & Tutorials**
+### **DOCS & TUTORIALS**
 
 Comprehensive documentation and step-by-step guides.
 
-- [**Introduction du Open WebUI**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/introduction_to_open_webui.md)
+- [**Introduction to Open WebUI**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/introduction_to_open_webui.md)
 - [**Effective Prompt Crafting for Local LLMs**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/effective_prompt_crafting_for_local_llms.md)
 
-### **Functions**
+### **FUNCTIONS**
 
 Ready-to-use utility functions for common operations. Each function has its own directory with documentation.
 
