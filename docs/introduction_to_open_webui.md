@@ -52,7 +52,6 @@ Originally known as **Ollama WebUI**, Open WebUI has evolved into a comprehensiv
 ## How Open WebUI Works
 
 Open WebUI acts as a bridge between users and various LLM providers. It offers a unified interface regardless of the backend model or API you're using.
-
 ```mermaid
 flowchart TD
     User[<b>User Browser</b>] <--> WebUIFrontend[<b>Open WebUI</b><br/>Frontend<br/><i>React/Svelte Interface</i>]
@@ -81,7 +80,6 @@ flowchart TD
 6. **Enhancement:** Optional features like RAG, functions, or pipelines can augment the interaction
 
 ### Technical Stack
-
 ```mermaid
 graph LR
     A[Frontend] --> B[Svelte/React]
@@ -123,7 +121,6 @@ Connect to multiple LLM providers simultaneously:
 ### 3. **Advanced RAG (Retrieval-Augmented Generation)**
 
 Built-in document processing and knowledge base integration:
-
 ```mermaid
 flowchart LR
     A[Documents] --> B[Text Extraction]
@@ -366,7 +363,6 @@ Test and compare different models for academic or commercial research.
 Build an AI-powered knowledge management system.
 
 **Setup example:**
-
 ```mermaid
 flowchart TD
     A[Company Documents] --> B[Open WebUI RAG]
@@ -472,7 +468,6 @@ Features:
 Build intelligent support systems with human-in-the-loop.
 
 **Architecture:**
-
 ```mermaid
 flowchart LR
     A[Customer Question] --> B{Support Bot}
@@ -678,10 +673,34 @@ The future of AI interaction is open, customizable, and in your control. Open We
 
 ---
 
+## 🙏 Acknowledgments
+
+**Special thanks to**:
+- Open WebUI core team for the amazing platform
+- Community members who tested variations
+- Contributors who reported issues and improvements
+
+**Inspired by**:
+- Open WebUI Documentation
+- Open WebUI Reddit Community
+
+---
+
 ## 📄 License
 
 [![License License CCBYSA](https://img.shields.io/badge/License-CC--BY--SA--4.0%20-blue.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
-This textual content is licensed under CC BY-SA 4.0.
+
+This file is part of the [**Open WebUI Toolkit**](https://github.com/rex-nihilo/open-webui-toolkit) project.
+This textual content is licensed under **CC BY-SA 4.0**.
+
+You are free to:
+- **Share**: Copy and redistribute in any medium or format
+- **Adapt**: Remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution**: Give appropriate credit
+- **ShareAlike**: Distribute under same license
+- **No additional restrictions**: Cannot apply legal terms or technological measures that legally restrict others
 
 ## 👤 Author
 
@@ -696,8 +715,12 @@ This textual content is licensed under CC BY-SA 4.0.
 
 If you find this work helpful:
 
-- ⭐ Star the repository
-- 📢 Share with other developers
+- ⭐ **Star the repository** on GitHub
+- 📢 **Share** with other Open WebUI users
+- 💬 **Contribute** your own variations and tips
+- 📝 **Write a blog post** about your Open WebUI use case
+- 🎥 **Create a tutorial** video (credit this guide)
+- ☕ **Buy me a coffee** (or a beer)
 
 ---
 
