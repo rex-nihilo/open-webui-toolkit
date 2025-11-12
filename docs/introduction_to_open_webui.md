@@ -21,6 +21,7 @@ A comprehensive guide to understanding Open WebUI, the extensible and feature-ri
 ---
 
 <a id="what-is-open-webui"></a>
+
 ## What is Open WebUI?
 
 **Open WebUI** is an extensible, feature-rich web user interface designed for interacting with Large Language Models (LLMs). It acts as a powerful, self-hosted alternative to interfaces like OpenAI's ChatGPT, Google's Gemini, or Anthropic's Claude.
@@ -47,6 +48,7 @@ Originally known as **Ollama WebUI**, Open WebUI has evolved into a comprehensiv
 ---
 
 <a id="how-open-webui-works"></a>
+
 ## How Open WebUI Works
 
 Open WebUI acts as a bridge between users and various LLM providers. It offers a unified interface regardless of the backend model or API you're using.
@@ -92,6 +94,7 @@ graph LR
 ---
 
 <a id="key-features-and-strengths"></a>
+
 ## Key Features and Strengths
 
 Open WebUI stands out due to its comprehensive feature set and flexibility. Here are the main strengths:
@@ -185,6 +188,7 @@ flowchart LR
 ---
 
 <a id="architecture-overview"></a>
+
 ## Architecture Overview
 
 ### System Components
@@ -285,6 +289,7 @@ sequenceDiagram
 ---
 
 <a id="use-cases-and-examples"></a>
+
 ## Use Cases and Examples
 
 ### 1. **Personal AI Assistant**
@@ -495,6 +500,7 @@ flowchart LR
 ---
 
 <a id="comparison-with-other-solutions"></a>
+
 ## Comparison with Other Solutions
 
 ### Open WebUI vs. Alternatives
@@ -535,6 +541,7 @@ flowchart LR
 ---
 
 <a id="community-and-ecosystem"></a>
+
 ## Community and Ecosystem
 
 ### Active Development
@@ -575,6 +582,7 @@ The project welcomes contributions:
 ---
 
 <a id="getting-started"></a>
+
 ## Getting Started
 
 ### Prerequisites
@@ -627,6 +635,7 @@ graph LR
 ---
 
 <a id="useful-links-and-resources"></a>
+
 ## Useful Links and Resources
 
 ### Official Resources
@@ -635,6 +644,7 @@ graph LR
 - **📦 GitHub Repository:** [https://github.com/open-webui/open-webui)](https://github.com/open-webui/open-webui)
 - **📖 Documentation:** [https://docs.openwebui.com](https://docs.openwebui.com/)
 - **💬 Discord Community:** [https://discord.gg/open-webui](https://discord.gg/open-webui)
+- **🐥 Reddit Community:** [https://www.reddit.com/r/OpenWebUI/](https://www.reddit.com/r/OpenWebUI/)
 - **🐛 Issue Tracker:** [https://github.com/open-webui/open-webui/issues](https://github.com/open-webui/open-webui/issues)
 
 ### Related Projects
