@@ -14,12 +14,19 @@ Each project component contains all necessary information within its own directo
 
 Comprehensive documentation and step-by-step guides.
 
+#### Basics:
+
 - [**Introduction to Open WebUI**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/introduction_to_open_webui.md)
 - [**Effective Prompt Crafting for Local LLMs**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/effective_prompt_crafting_for_local_llms.md)
+
+#### Configuration:
+
+- [**Configure Open WebUI Templates – Full Guide**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/configure_open_webui_templates-full_guide.md)
 
 ### **FUNCTIONS**
 
 Ready-to-use utility functions for common operations. Each function has its own directory with documentation.
+
 
 #### **Filter Functions:**
 
@@ -31,6 +38,15 @@ Ready-to-use utility functions for common operations. Each function has its own 
 
 - **Open WebUI**: v0.6.10+ recommended
 - **Python**: 3.8+
+
+---
+
+## 🙏 Acknowledgments
+
+- Open WebUI team for creating an amazing platform
+- The Open WebUI community for feedback and support
+
+---
 
 ## 📄 License
 
@@ -55,8 +71,8 @@ If you find this work helpful:
 - 🐛 Report bugs and issues
 - 💡 Suggest new features
 - 📢 Share with other developers
+- ☕ **Buy me a coffee** (or a beer)
 
-## 🙏 Acknowledgments
+---
 
-- Open WebUI team for creating an amazing platform
-- The Open WebUI community for feedback and support
+**Last updated:** November 2025 by **Rex Nihilo**
