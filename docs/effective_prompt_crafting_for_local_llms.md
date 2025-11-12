@@ -664,10 +664,34 @@ Remember: the model is a tool, and like any tool, its effectiveness depends on h
 
 ---
 
+## 🙏 Acknowledgments
+
+**Special thanks to**:
+- Open WebUI core team for the amazing platform
+- Community members who tested variations
+- Contributors who reported issues and improvements
+
+**Inspired by**:
+- Open WebUI Documentation
+- Prompt Engineering Guide
+
+---
+
 ## 📄 License
 
 [![License License CCBYSA](https://img.shields.io/badge/License-CC--BY--SA--4.0%20-blue.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
-This textual content is licensed under CC BY-SA 4.0.
+
+This file is part of the [**Open WebUI Toolkit**](https://github.com/rex-nihilo/open-webui-toolkit) project.
+This textual content is licensed under **CC BY-SA 4.0**.
+
+You are free to:
+- **Share**: Copy and redistribute in any medium or format
+- **Adapt**: Remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution**: Give appropriate credit
+- **ShareAlike**: Distribute under same license
+- **No additional restrictions**: Cannot apply legal terms or technological measures that legally restrict others
 
 ## 👤 Author
 
@@ -681,9 +705,14 @@ This textual content is licensed under CC BY-SA 4.0.
 ## 💖 Support
 
 If you find this work helpful:
-- ⭐ Star the repository
-- 📢 Share with other developers
+
+- ⭐ **Star the repository** on GitHub
+- 📢 **Share** with other Open WebUI users
+- 💬 **Contribute** your own variations and tips
+- 📝 **Write a blog post** about your prompting art
+- 🎥 **Create a tutorial** video (credit this guide)
+- ☕ **Buy me a coffee** (or a beer)
 
 ---
 
-**Licence:** [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) | **Last updated:** November 2025 by **Rex Nihilo**
+**Licence:** [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) | **Last updated:** November 2025 by **Rex Nihilo*
