@@ -1,4 +1,4 @@
-# Introduction to Open WebUI
+# Introduction to Open WebUI — Why use Open WebUI ?
 
 [![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Docs-blue.svg?style=flat-square&logo=github)](https://github.com/open-webui/open-webui) [![License: License CC-BY-SA](https://img.shields.io/badge/License-CC--BY--SA--4.0%20-blue.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
 
