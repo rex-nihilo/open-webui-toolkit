@@ -22,12 +22,11 @@ Comprehensive documentation and step-by-step guides.
 
 #### Configuration:
 
-- [**Configure Open WebUI Templates – Full Guide**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/configure_open_webui_templates-full_guide.md)
+- [**Configure Open WebUI Templates**](https://github.com/rex-nihilo/open-webui-toolkit/blob/main/docs/configure_open_webui_templates-full_guide.md): Full Guide
 
 ### **FUNCTIONS**
 
 Ready-to-use utility functions for common operations. Each function has its own directory with documentation.
-
 
 #### **Filter Functions:**
 
